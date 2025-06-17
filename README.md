@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi there! I'm a first-semester computer engineering student with a passion for coding. I have a solid foundation in HTML, CSS, JavaScript, and C programming languages. I'm constantly seeking new challenges to enhance my skills and knowledge in the tech industry. I enjoy building web applications and experimenting with new technologies. In my free time, I love to explore different coding resources and participate in coding communities. I'm excited to learn more about software development and contribute to the tech industry.
+Hi there! I'm a passionate computer engineering student, recently graduated with a diploma, and deeply enthusiastic about software development. I possess a strong foundation in HTML, CSS, JavaScript, C, and Flutter, enabling me to build both web and cross-platform mobile applications. I'm continuously expanding my technical skill set and enjoy working on intuitive, user-friendly solutions.
 
+I actively seek out new challenges that enhance my problem-solving abilities and broaden my understanding of modern development practices. I enjoy exploring open-source projects, engaging with developer communities, and staying up to date with the latest trends in the tech landscape. I'm excited to contribute meaningfully to real-world projects and grow as a developer in the dynamic world of technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vinit._.06/?igshid=ZGUzMzM3NWJiOQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinit-shah-2aba49256) 
